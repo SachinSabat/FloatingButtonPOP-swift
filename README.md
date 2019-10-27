@@ -16,8 +16,8 @@ FloatingButtonPOP-swift is a framework with a lot of access to change it's UI wh
 
 ## Requirements
 
-- iOS 11.0+
-- Xcode 11.0
+- iOS 10.0+
+- Xcode 9.0
 - Swift 3.0+
 
 ## Installation
@@ -26,7 +26,7 @@ FloatingButtonPOP-swift is a framework with a lot of access to change it's UI wh
 You can use [CocoaPods](https://cocoapods.org/pods/FloatingButtonPOP-swift) to install `FloatingButtonPOP-swift` by adding it to your `Podfile`:
 
 ```ruby
-platform :ios, '11.0'
+platform :ios, '10.0'
 use_frameworks!
 pod 'FloatingButtonPOP-swift'
 ```
@@ -48,6 +48,8 @@ addFloaterMenu(with: [("Facebook", UIImage(named: "facebook")),("Instagram", UII
 }
 }
 ```
+## Tutorial
+[Medium](https://medium.com/@sabat.sachin33/ios-create-floating-button-in-your-app-by-using-floatingbuttonpop-swift-29e096fceb1d)
 
 ## Contribute
 
