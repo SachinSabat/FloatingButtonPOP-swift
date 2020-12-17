@@ -17,8 +17,8 @@ FloatingButtonPOP-swift is a framework with a lot of access to change it's UI wh
 ## Requirements
 
 - iOS 10.0+
-- Xcode 9.0
-- Swift 3.0+
+- Xcode 10.0+
+- Swift 4.0+
 
 ## Installation
 
