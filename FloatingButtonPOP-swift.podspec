@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
           #3.  
           s.summary         = "FloatingButtonPOP-swift framework allows you to add Floating button in your viewcontroller in just one line fully protocol oriented way."
           #4.
-          s.homepage        = "https://www.linkedin.com/in/sachin-sabat-b9481831/"
+          s.homepage        = "https://github.com/SachinSabat/FloatingButtonPOP-swift"
           #5.
           s.license              = "MIT"
           #6.
